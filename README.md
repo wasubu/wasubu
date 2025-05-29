@@ -35,7 +35,8 @@
     - [ ] Make my own portfolio  
 - [ ] Reach 100 subs  
 - [ ] Learn C, Rust, JavaScript, Lua, Python  
-- [ ] Make Projects  
+- [ ] Make Projects
+    - [ ] pomodoro android app 
 - [ ] Self-teach Math  
     - [ ] Learn vectors  
     - [ ] Learn logarithm  
