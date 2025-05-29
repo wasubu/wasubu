@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There,+I'm+Wasubu+Minoco!!!;Creative+Thinker...;I+Make+Youtube+Videos...;Always+Learning..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There,+I'm+Wasubu+Minoco!!!;Probably+Dumber+Than+Most+People...;I+Hate+Dunning-Kruger+Effect...;Anyways+I+Make+Youtube+Videos!!!;I+Try+To+Always+Learn+New+Stuff..." />
 </p>
 
-<h1 align="center"> Hello there, Wasubu Minoco!</h1>
+<h1 align="center"> Hello there, I'm Wasubu Minoco!</h1>
 
 <p align="center">
-  🧠 Always Learning | 🎮 RetroGadgets Youtuber | 🛠️ Building cool stuff (>ᴗ•)
+  🧠 Very self doubting | 🎮 RetroGadgets Youtuber | 🛠️ Wanna build cool stuff (>ᴗ•)
 </p>
 
 <p align="center">
@@ -36,10 +35,12 @@
 - [ ] Reach 100 subs  
 - [ ] Learn C, Rust, JavaScript, Lua, Python  
 - [ ] Make Projects
-    - [ ] pomodoro android app 
+    - [ ] Pomodoro android app 
 - [ ] Self-teach Math  
     - [ ] Learn vectors  
     - [ ] Learn logarithm  
+    - [ ] Learn calculus
+- [ ] Be The Anki Master
 
 </div>
 
@@ -55,6 +56,7 @@
 </table>
 
 </div>
+
 
 
 
