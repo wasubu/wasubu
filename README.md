@@ -1,3 +1,4 @@
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There,+I'm+Wasubu+Minoco!!!;Probably+Dumber+Than+Most+People...;I+Hate+Dunning-Kruger+Effect...;Anyways+I+Make+Youtube+Videos!!!;I+Try+To+Always+Learn+New+Stuff..." />
 </p>
 
@@ -56,8 +57,3 @@
 </table>
 
 </div>
-
-
-
-
-
