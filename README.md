@@ -5,7 +5,7 @@
 <h1 align="center"> Hello there, Wasubu Minoco!</h1>
 
 <p align="center">
-  🧠 Always Learning | 🎮 RetroGadgets Youtuber | 🛠️ Building cool stuff
+  🧠 Always Learning | 🎮 RetroGadgets Youtuber | 🛠️ Building cool stuff (>ᴗ•)
 </p>
 
 <p align="center">
