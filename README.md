@@ -36,7 +36,8 @@
 - [ ] Reach 100 subs  
 - [ ] Learn C, Rust, JavaScript, Lua, Python  
 - [ ] Make Projects
-    - [ ] Pomodoro android app 
+    - [ ] Pomodoro android app
+    - [ ] Habit tracker win/android
 - [ ] Self-teach Math  
     - [ ] Learn vectors  
     - [ ] Learn logarithm  
