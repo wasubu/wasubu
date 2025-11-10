@@ -31,7 +31,7 @@
 <div style="margin-left: 1em">
 
 - [ ] Make Websites  
-    - [ ] Buy my own domain  
+    - [x] Buy my own domain  
     - [ ] Make my own portfolio  
 - [ ] Reach 100 subs  
 - [ ] Learn C, Rust, JavaScript, Lua, Python  
