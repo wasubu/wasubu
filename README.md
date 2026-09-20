@@ -33,7 +33,7 @@
 - [ ] Make Websites  
     - [x] Buy my own domain  
     - [ ] Make my own portfolio  
-- [ ] Reach 100 subs  
+- [x] Reach 100 subs  
 - [ ] Learn C, Rust, JavaScript, Lua, Python  
 - [ ] Make Projects
     - [ ] Pomodoro android app
